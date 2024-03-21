@@ -12,6 +12,10 @@ body {
     background-color: #f5f5f5;
 }
 
+.edit-mode {
+    color: #ccc;
+}
+
 .container {
     max-width: 500px;
     margin: 30px auto;
@@ -113,6 +117,7 @@ header h1 {
     font-weight: 700;
     
 }
+
 
 
 
